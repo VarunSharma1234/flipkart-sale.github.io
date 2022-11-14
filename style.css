@@ -1,0 +1,352 @@
+*{
+    margin: 0;
+    padding: 0;
+    position: sticky;
+}
+.cross{
+    height: 10px;
+}
+.logo{
+    padding-top: 10px;
+    height: 20px;
+    width: 60px;
+    align-self: center;
+}
+.navigation-bar{
+    background-color: rgb(40, 116, 240);
+    display: flex;
+    padding-bottom: 11px;
+    align-self: center;
+}
+.link01{
+    color: white;
+    margin: 0;
+    font-size: small;
+    font-style: italic;
+}
+.link02{
+    color: yellow;
+    margin: 0;
+    font-size: small;
+    font-style: italic;
+}
+.icon{
+    padding: 0;
+    display: flex;
+    align-self:flex-end;
+    justify-content: flex-start;
+    height: 18px
+}
+.searchBar{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    background-color:white;
+    width: 450px;
+    height: 32px;
+    border-color: rgb(40, 116, 240);
+
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.option{
+    color: white;
+    background-color: rgb(40, 116, 240);
+    display: flex;
+    align-items: center;
+    padding-top: 7px;
+    padding-left: 20px;
+}
+.bigIcon{
+    padding-left: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.button{
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(40, 116, 240);
+    margin-left: 10px;
+    font-weight: 800;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#sell{
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 30px;
+}
+#more{
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 40px;
+}
+#cart{
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 40px;
+}
+.optionbar{
+    text-align: center;
+    height: 100px;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: small;    
+}
+.hover1:hover{
+    color:  rgb(40, 116, 240);
+
+}
+.topOffer{
+    padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
